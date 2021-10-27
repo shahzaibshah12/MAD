@@ -1,0 +1,1 @@
+export const image_png_transparent_white_notepad_notepad_notebook_painted_notepad_and_pencil_watercolor_painting_pencil_color_pencil_1_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/eea2/dbef/14a9b1d08d95c30ae88684d51894c397";
